@@ -16,6 +16,12 @@ Final Report
 The complete incident report is available in the DFIR_Report.pdf file. It details the full attack narrative, from the initial phishing attempt to the final data exfiltration and ransomware drop.
 
 Key Findings
+
+<img width="564" height="315" alt="image" src="https://github.com/user-attachments/assets/837a16d9-21ef-4453-983d-ae3651bb3ac6" />
+
+<img width="580" height="290" alt="image" src="https://github.com/user-attachments/assets/539b8570-244c-4e16-bf20-3c1ea7bad051" />
+
+
 The investigation revealed a highly coordinated attack campaign with the following key findings:
 
 Initial Access: The attack vector was a targeted phishing email sent to multiple employees.
