@@ -1,4 +1,3 @@
-FLUFFYBIRD
 DFIR Hackathon Challenge - WidgetCo Breach Investigation
 Project Overview
 This repository contains the results of a cybersecurity incident response investigation conducted during the WidgetCo DFIR Hackathon. The project involved triaging, analyzing, and reporting on a sophisticated multi-stage cyberattack that targeted the company's network.
